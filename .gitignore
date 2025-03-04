@@ -1,0 +1,7 @@
+/dist
+/build
+/.venv
+/update sqlite.py
+*.db
+*.spec
+wififingerprint.py

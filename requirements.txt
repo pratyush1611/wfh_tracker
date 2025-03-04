@@ -1,0 +1,4 @@
+pyqt5~=5.15.11
+pyinstaller~=6.11.1
+pywifi~=1.1.2
+comtypes~=1.4.10
