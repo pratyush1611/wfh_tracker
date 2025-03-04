@@ -358,7 +358,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# to build
-# pyinstaller --noconfirm --onefile --windowed wfh_tracker.py
